@@ -4,3 +4,5 @@ addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse" % "1.4.0")
 
 addSbtPlugin("net.virtualvoid" % "sbt-dependency-graph" % "0.5.1")
 
+addSbtPlugin("com.eed3si9n" % "sbt-inspectr" % "0.0.1")
+
